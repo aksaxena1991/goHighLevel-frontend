@@ -47,10 +47,10 @@ The page will reload if you make edits.
 Contributions to this project are welcome. To contribute, follow these steps:
 
 ### Fork the repository
-Create a new branch (git checkout -b feature/your-feature)
-Make changes and commit (git commit -am 'Add some feature')
-Push to the branch (git push origin feature/your-feature)
-Create a new Pull Request
+- Create a new branch (git checkout -b feature/your-feature)
+- Make changes and commit (git commit -am 'Add some feature')
+- Push to the branch (git push origin feature/your-feature)
+- Create a new Pull Request
 
 Please read the Contributing Guidelines for more details.
 
